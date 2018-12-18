@@ -2,29 +2,43 @@
 title: "General Insect Rearing"
 author: "HHC"
 date: "12/13/2018"
-output: html_document
+output:
+  prettydoc::html_pretty:
+    theme: tactile
+    toc: true
+  
+  
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# IMPORTANT NOTES
 
-## R Markdown
+1. DO NOT MIX UP SPECIES.
+2. Label everything.
+3. Label jars with Species name, cage to be placed in, and date. *(i.e. L. sericata 2018-12-17 (core OR initials))*
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+# Dark Room (Larvae Room)
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+The dark room has three sections in the fume hood. The leftmost area contains jars that are 1st - 3rd instar feeding (A1). The middle region contains jars that are wandering and pupating (A2). The rightmost region contains jars that we are killing off (A3).
 
-```{r cars}
-summary(cars)
-```
+1. Check A1 and add liver or remove liver depending on their life stage. Wandering larvae have empty crops (see image below). 
+2. Check A2 for emerged adult flies. Place the emerged flies into their corresponding cages
+3. Check A3. Empty jars that have no more live flies in them. Clean the jar with alconox and water and place in "to dry" bin. 
+4. Return dry jars to the shelf.
 
-## Including Plots
+![(A) shows a 3rd instar feeding larva, (B) shows a 3rd instar wandering larva](https://user-images.githubusercontent.com/26017826/50126292-4b86e080-023a-11e9-9683-fa614a69559c.png)
 
-You can also embed plots, for example:
+# Adult Fly Room
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+## Checking for Water, Sugar, and Milk Powder Levels
+  
+1. Check all cages for water levels in Erlenmeyer flasks. Change the sponge if it looks black and moldy
+2. Make sure there are at least 3 sugar cubes in the petri dish.
+3. Add more milk powder if it is running low.
+4. If a jar has been open in the jar for more than 4 days, take the metal jar cap and close the cap to kill the jar off. Place in A3. 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## General
+
+1. Make sure the water bottles are filled up
+2. Make sure there is at least one box of sugar cubes
+3. Check to see if the trash can is full, if it is, take it to the trashcan outside the 5th floor girls' bathroom
+4. Check to see if there is water in the humidifier. Fill it up if there is no water left.
