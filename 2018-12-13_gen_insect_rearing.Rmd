@@ -20,6 +20,14 @@ output:
 
 The dark room has three sections in the fume hood. The leftmost area contains jars that are 1st - 3rd instar feeding (A1). The middle region contains jars that are wandering and pupating (A2). The rightmost region contains jars that we are killing off (A3).
 
+## Making jars
+1. Obtain a clean mason jar located on shelf above sink and label wtih species, date, and cage (core or experimental).
+2. Fill the jar about 1/3 of the way with fresh wood shavings. 
+3. Wet a paper towel and place it on top of the opening of the jar. Place a piece of fresh liver on the paper towel.
+4. Put eggs onto the liver -- watch out for density. Too many eggs will cause small, probably unusable adult flies. 
+5. Tightly close jars with tarp. MAKE SURE IT IS CLOSED CORRECTLY OR MAGGOTS WILL ESCAPE. 
+
+## Checking jars
 1. Check A1 and add liver or remove liver depending on their life stage. Wandering larvae have empty crops (see image below). 
 2. Check A2 for emerged adult flies. Place the emerged flies into their corresponding cages
 3. Check A3. Empty jars that have no more live flies in them. Clean the jar with alconox and water and place in "to dry" bin. 
@@ -34,7 +42,13 @@ The dark room has three sections in the fume hood. The leftmost area contains ja
 1. Check all cages for water levels in Erlenmeyer flasks. Change the sponge if it looks black and moldy
 2. Make sure there are at least 3 sugar cubes in the petri dish.
 3. Add more milk powder if it is running low.
-4. If a jar has been open in the jar for more than 4 days, take the metal jar cap and close the cap to kill the jar off. Place in A3. 
+4. If a jar has been open in the jar for more than 4 days, take the metal jar cap and close the cap to kill the jar off. Place in A3.
+
+## Extraction
+
+1. Place a small piece of fresh pork liver in a petri dish into the cage (microwave frozen liver for 2 minutes, then at 30 sec intervals until soft).
+2. Leave the liver in until the flies lay. At most 12 hours. If they do not lay remove liver and place in fresh liver. 
+3. Remove liver and refer to "Making Jars"" section.
 
 ## General
 
