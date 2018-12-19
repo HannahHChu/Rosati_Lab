@@ -1,0 +1,44 @@
+---
+title: "Alcohol Effects on Oviposition of L. Sericata"
+author: "HHC"
+date: "2018-12-19"
+output: 
+  prettydoc::html_pretty:
+    theme: tactile
+    toc: true
+
+---
+
+# Literature
+
+# Rationale
+
+# Methods & Materials
+  - AIR FILTER?
+
+# Protocol & Setup
+
+## Cage 
+1. Put together 12" x 12" meshed cages.
+2. Supply with 4-5 sugar cubes and a 50mL Erlenmeyer flask filled with water and place a sponge to close the opening.
+
+## Rearing
+1. Please refer to [Adult Fly Room > Extraction](https://hannahhchu.github.io/2018-12-13_gen_insect_rearing.html#extraction) and [Dark Room > Making Jars](https://hannahhchu.github.io/2018-12-13_gen_insect_rearing.html#making-jars)
+2. When larvae begin to pupate, place ~5 pupae into petri dishes and tape down the petry dish cap.
+3. Check every 24 hours until fly emergence.
+4. Place petri dishes with emerged flies into cages keeping track of how many [females and males](https://user-images.githubusercontent.com/26017826/50249572-65e0cb80-03ac-11e9-89da-29173014728d.png) are in each group -- (this experiment will use 50F, 25M)
+5. Remove the additional male and female flies from the cage.
+6. Allow 3-7 days for virgin flies to mate. 
+
+## Experimental
+
+1. Obtain the needed number of clear, plastic storage boxes
+2. Insert a PVC tube (with air filter?) into the storage box.
+3. Place cage with mated flies into the storage box.
+4. Place test samples into cage and close the storage box lid. 
+5. Observe oviposition behavior of female flies. Check every 15 minutes for 2 hours. 
+
+*Note: Please find template data sheets [here]()*
+
+# Results
+
