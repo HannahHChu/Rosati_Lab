@@ -14,7 +14,23 @@ output:
 # Rationale
 
 # Methods & Materials
-  - AIR FILTER?
+## Preliminary
+1. Defrost (30g) pre-weighed and pre-blended liver from freezer for about one hour. Do not microwave as that will cook the liver.
+
+2. Defrost blood -- this may take long so fill a beaker with water and place the vial of blood in the beaker. Then put beaker on a hot plate and turn the setting to hiigh (10). It takes about 30 min for the blood to become liquid again. 
+
+3. As everything is defrosting, take aluminum foil and make a little separation ledge to separate the blood and liver in the dish. To make this ledge, take about a 6in x 6in square of foil. Fold in half and then fold the two sides so you have an accordian-like fold. Then insert the ledge to a clean petri dish bottom (This is hard to describe so I'll trust you can rig something that's usable. It doesn't have to be exact.)
+
+4. Add liver to one side of the petri dish and add 5mL of blood to the other side of the petri dish.
+
+5. Set up the treatments as follows:
+    - Control - blood + liver; do not add anything
+    - Acetic Acid ONLY - 40uL of pure acetic acid to LIVER side; mix well into liver. Do not add anything to the blood
+    - Ethanol ONLY - 40uL of pure Ethanol to BLOOD side; mix well into blood Do not add anything to the liver
+    - Acetic Acid + Ethanol - 40uL of acetic acid to the liver and 40uL of Ethanol to blood. Mix well
+    
+6. Place the treatments into the 4 corners of the cage. You can leave it in the cage for up to 15 hours and at least 8 hours. Preferably longer to allow more oviposition. Take note of which corner each treatment was in. 
+
 
 # Protocol & Setup
 
