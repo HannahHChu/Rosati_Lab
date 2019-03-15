@@ -15,6 +15,7 @@ output:
 1. DO NOT MIX UP SPECIES.
 2. Label everything.
 3. Label jars with Species name, cage to be placed in, and date. *(i.e. L. sericata 2018-12-17 (core OR initials))*
+4. DO NOT EXPECT THE NEXT PERSON TO FINISH YOUR JOB. IF SOMETHING IS READY TO BE TAKEN OUT OR ADDED, DO IT DURING YOUR CHECK.
 
 # Dark Room (Larvae Room)
 
@@ -24,7 +25,7 @@ The dark room has three sections in the fume hood. The leftmost area contains ja
 1. Obtain a clean mason jar located on shelf above sink and label wtih species, date, and cage (core or experimental).
 2. Fill the jar about 1/3 of the way with fresh wood shavings. 
 3. Wet a paper towel and place it on top of the opening of the jar. Place a piece of fresh liver on the paper towel.
-4. Put eggs onto the liver -- watch out for density. Too many eggs will cause small, probably unusable adult flies. 
+4. Put eggs onto the liver -- watch out for DENSITY. Too many eggs will cause small, probably unusable adult flies. 
 5. Tightly close jars with tarp. MAKE SURE IT IS CLOSED CORRECTLY OR MAGGOTS WILL ESCAPE. 
 
 ## Checking jars
@@ -42,13 +43,23 @@ The dark room has three sections in the fume hood. The leftmost area contains ja
 1. Check all cages for water levels in Erlenmeyer flasks. Change the sponge if it looks black and moldy
 2. Make sure there are at least 3 sugar cubes in the petri dish.
 3. Add more milk powder if it is running low.
-4. If a jar has been open in the jar for more than 4 days, take the metal jar cap and close the cap to kill the jar off. Place in A3.
+4. If a jar has been open in the jar for more than 4 days, take the metal jar cap and close the cap to kill the jar off. Place in A3 until no live flies are left.
+
+Notes:
+  
+  - When a blood boost is needed to help flies lay eggs, put about 1mL of blood and a little water in a petri dish. (See image below)
+  
+![](https://user-images.githubusercontent.com/26017826/54444432-0f6bfa80-4719-11e9-9a2f-add3080fe261.JPG)
+
+  - Female and male flies are distinguished by eye separation. (See image below)
+
+![](https://user-images.githubusercontent.com/26017826/50249572-65e0cb80-03ac-11e9-89da-29173014728d.png)
 
 ## Extraction
 
 1. Place a small piece of fresh pork liver in a petri dish into the cage (microwave frozen liver for 2 minutes, then at 30 sec intervals until soft).
 2. Leave the liver in until the flies lay. At most 12 hours. If they do not lay remove liver and place in fresh liver. 
-3. Remove liver and refer to "Making Jars"" section.
+3. Remove liver and refer to "Making Jars" section.
 
 ## General
 
